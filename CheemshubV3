@@ -133,7 +133,7 @@ function GetDistance(q)
 end
 function Notify(G, H, I)
     if G == nil or G == "" then
-        G = "Not Titled"
+        G = "CheemsHub"
     end
     if H == nil or H == "" then
         H = "No Any Descriptions"
